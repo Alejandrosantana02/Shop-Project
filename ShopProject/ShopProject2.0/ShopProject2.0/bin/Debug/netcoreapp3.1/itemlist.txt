@@ -1,0 +1,6 @@
+Soda,A potent healing salve: heals 10hp,5,soda.jpg
+Chocolate Bar,A sturdy and fair trade chocolate snack: +1 armor,8,chocolate.png
+Pizza,Warm crusty dough pizza: increases size by 1, 15,pizza.png
+Python Wand,A magic wand made with snake skin: +5 intelligence,50,python.png
+Magic Beans,An odd bag of magic beans: +3 luck,13,beans.png
+Loaded Dice,Deveraux's classic unfair pair of dice: +1 sneak,5,dice.png
